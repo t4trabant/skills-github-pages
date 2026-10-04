@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-Spitzel kriegen grüne Ohren und der General hat die Armee verloren
+Eine Sammlung von allem, was mich interessiert, oder was mich aufregt
